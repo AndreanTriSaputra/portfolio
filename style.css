@@ -39,6 +39,7 @@ body {
   height: 110px;
   border-radius: 50%;
   border: 2px solid var(--border);
+  object-fit: cover;
 }
 
 .profile-header h1 {
